@@ -1,0 +1,37 @@
+body{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: top;
+    background-image:url(Bilder/Login_Hintergrund.gif);
+    width: 100%;
+    height: 100%;
+    font-family: Arial, Helvetica;
+    letter-spacing: 0.02em;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+}
+
+.login_div{
+    position: absolute;
+    top: 50%;
+    left: 38%;
+}
+
+.login_text{
+    position: absolute;
+    left: 5em;
+    top: -3em;
+    color: white;
+    text-shadow: 4px 4px 5px black;
+}
+
+.login_table{
+    width: 25%;
+    box-shadow: 4px 4px 5px black;
+    background: #444444;
+    width: 25em;
+}
+
+
+
